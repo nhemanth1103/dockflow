@@ -1,3 +1,15 @@
+
+#Sign in Password 
+Two Dashboard one for captain and one for depot staff
+
+| Role | Email | Password |
+|---|---|---|
+| Captain — B-003 | `captain.b003@gmail.com` | `123456` |
+| Depot Staff — Depot A | `depot.a@gmail.com` | `123456` |
+| Depot Staff — Depot B | `depot.b@gmail.com` | `123456` |
+
+
+
 # DockFlow
 
 > **A dockside coordination system designed to keep working when the dock doesn't.**
